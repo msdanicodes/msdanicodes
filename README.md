@@ -98,7 +98,7 @@ e&logoColor=white&labelColor=7b1fa2" alt="Portfolio"/>
 
 ## ✿ About Me
 
-Hi, I'm **[YOUR NAME]** 👋  
+Hi, I'm ** **   
 I'm a web developer based in **[CITY, COUNTRY]**.
 
 - 🎨 Passionate about clean & aesthetic UI
@@ -126,20 +126,19 @@ I'm a web developer based in **[CITY, COUNTRY]**.
 
 ---
 
-## ✿ Skills
+## Skills
 
 | Skill | Level |
 |--------|-------|
-| HTML / CSS | ████████████████ 90% |
-| JavaScript | ██████████████ 78% |
-| React | ████████████ 65% |
-| Tailwind CSS | ███████████████ 80% |
-| SASS | ███████████ 70% |
-| Figma | █████████ 60% |
+| HTML| ████████████████ 90% |
+| CSS | ██████████████ 78% |
+| JavaScript | ████████████ 65% |
+| Tailwind CSS | █████████ 40% |
+| Abobe | ███████████ 70% |
 
 ---
 
-## ✿ GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
