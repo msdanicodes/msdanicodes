@@ -50,7 +50,7 @@
   <text x="400" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="42" 
 font-weight="bold" fill="url(#text-grad)" filter="url(#shadow)">
 
-    [•❃°•Dani•°❃•] 
+    •❃°•Dani•°❃• 
   </text> 
  
   <!-- tagline --> 
@@ -108,7 +108,7 @@ I'm a web developer based in **[CITY, COUNTRY]**.
 
 ---
 
-## ✿ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -116,11 +116,9 @@ I'm a web developer based in **[CITY, COUNTRY]**.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-CC2366?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobea-A259FF?style=for-the-badge&logo=Adobe&logoColor=white"/>
 
 </div>
 
@@ -142,15 +140,15 @@ I'm a web developer based in **[CITY, COUNTRY]**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=msdanicodes&show_icons=true&hide_border=true"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdanicodes&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
-## ✿ Featured Projects
+## Featured Projects
 
 | Project | Description | Live |
 |--------|-------------|------|
@@ -162,5 +160,4 @@ I'm a web developer based in **[CITY, COUNTRY]**.
 
 <div align="center">
 
-✿ thanks for visiting my profile ✿  
-<sub>made with 💜 — feel free to use this template</sub>
+✿ thanks for visiting my profile ✿
