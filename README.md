@@ -50,7 +50,7 @@
   <text x="400" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="42" 
 font-weight="bold" fill="url(#text-grad)" filter="url(#shadow)">
 
-    [YOUR NAME] 
+    [•❃°•Dani•°❃•] 
   </text> 
  
   <!-- tagline --> 
@@ -68,3 +68,30 @@ fill="#7b1fa2" opacity="0.85" font-style="italic">
 #ce93d8; box-shadow: 0 4px 14px rgba(186,104,200,0.35);"> 
  
 <br/> 
+
+<!-- ─── SOCIAL / CONTACT BADGES 
+──────────────────────────────────── --> 
+<!--                                 --> 
+ 
+<a href="https://twitter.com/msdanicodes" target="_blank"> 
+  <img 
+src="https://img.shields.io/badge/Twitter-@handle-ec407a?style=for-the-badge&logo=twitter&lo
+goColor=white&labelColor=7b1fa2" alt="Twitter"/> 
+</a> 
+<a href="https://linkedin.com/in/daniella-efemena" target="_blank"> 
+<img 
+src="https://img.shields.io/badge/LinkedIn-Connect-ec407a?style=for-the-badge&logo=linkedin&
+logoColor=white&labelColor=7b1fa2" alt="LinkedIn"/> 
+</a> 
+<a href="mailto:kundedaniellac@gmail.com"> 
+<img 
+src="https://img.shields.io/badge/Email-hello@you.com-ec407a?style=for-the-badge&logo=gmai
+l&logoColor=white&labelColor=7b1fa2" alt="Email"/> 
+</a> 
+<a href="https://[YOUR-PORTFOLIO-URL]" target="_blank"> 
+<img 
+src="https://img.shields.io/badge/Portfolio-yoursite.com-ec407a?style=for-the-badge&logo=glob
+e&logoColor=white&labelColor=7b1fa2" alt="Portfolio"/> 
+</a> 
+<br/><br/> 
+</div> ---
