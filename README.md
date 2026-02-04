@@ -1,134 +1,70 @@
 <div align="center">
 
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fce4ec"/>
-      <stop offset="50%" style="stop-color:#f3e5f5"/>
-      <stop offset="100%" style="stop-color:#ede7f6"/>
-    </linearGradient>
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ad1457"/>
-      <stop offset="50%" style="stop-color:#7b1fa2"/>
-      <stop offset="100%" style="stop-color:#4527a0"/>
-    </linearGradient>
-  </defs>
+# Hey, I'm •❃°•Dani•°❃•
 
-  <rect width="800" height="200" rx="18" fill="url(#bg)"/>
-
-  <text x="400" y="105" text-anchor="middle"
-        font-family="Georgia, serif"
-        font-size="42"
-        font-weight="bold"
-        fill="url(#text-grad)">
-    •❃°•Dani•°❃•
-  </text>
- 
-  <!-- tagline --> 
-  <text x="400" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="16" 
-fill="#7b1fa2" opacity="0.85" font-style="italic"> 
-    ✿ crafting beautiful web experiences ✿ 
-  </text> 
-</svg> 
- 
-<!-- Option B → use your GitHub avatar automatically:                 --> 
- 
-<br/> 
- 
-<img src="https://github.com/msdanicodes.png" width="115" style="border-radius:50%; border: 3px solid 
-#ce93d8; box-shadow: 0 4px 14px rgba(186,104,200,0.35);"> 
- 
-<br/> 
-
-<!-- ─── SOCIAL / CONTACT BADGES 
-──────────────────────────────────── --> 
-<!--                                 --> 
- 
-<a href="https://twitter.com/msdanicodes" target="_blank"> 
-  <img 
-src="https://img.shields.io/badge/Twitter-@handle-ec407a?style=for-the-badge&logo=twitter&lo
-goColor=white&labelColor=7b1fa2" alt="Twitter"/> 
-</a> 
-<a href="https://linkedin.com/in/daniella-efemena" target="_blank"> 
-<img 
-src="https://img.shields.io/badge/LinkedIn-Connect-ec407a?style=for-the-badge&logo=linkedin&
-logoColor=white&labelColor=7b1fa2" alt="LinkedIn"/> 
-</a> 
-<a href="mailto:kundedaniellac@gmail.com"> 
-<img 
-src="https://img.shields.io/badge/Email-hello@you.com-ec407a?style=for-the-badge&logo=gmai
-l&logoColor=white&labelColor=7b1fa2" alt="Email"/> 
-</a> 
-<a href="https://[YOUR-PORTFOLIO-URL]" target="_blank"> 
-<img 
-src="https://img.shields.io/badge/Portfolio-yoursite.com-ec407a?style=for-the-badge&logo=glob
-e&logoColor=white&labelColor=7b1fa2" alt="Portfolio"/> 
-</a> 
-<br/><br/> 
-</div> ---
-
-## ✿ About Me
-
-Hi, I'm ** **   
-I'm a web developer based in **[CITY, COUNTRY]**.
-
-- 🎨 Passionate about clean & aesthetic UI
-- ☕ Fueled by coffee & creativity
-- 🌱 Currently learning **[TECH / FRAMEWORK]**
-- 🤝 Open to collaborations & freelance work
-
----
-
-##  Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-<br/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobea-A259FF?style=for-the-badge&logo=Adobe&logoColor=white"/>
+*Creative Director, ShopQuik* | 1% better everyday
 
 </div>
 
 ---
 
-## Skills
+![WhatsApp Image 2026-02-04 at 21 35 55](https://github.com/user-attachments/assets/04e957df-ee31-454f-95a8-e50d4d515b28)
 
-| Skill | Level |
-|--------|-------|
-| HTML| ████████████████ 90% |
-| CSS | ██████████████ 78% |
-| JavaScript | ████████████ 65% |
-| Tailwind CSS | █████████ 40% |
-| Abobe | ███████████ 70% |
+
+## Hey, I am the ShopQuik's Creative Director.!
+
+I am a Creative Director who actually ships code. Currently leading the vision at *ShopQuik* , I blend the precision of a developer with the empathy of a designer to build platforms that respect the user's time.
+
+I believe that a product should be 'calm to look at' but powerful to use. I believe the best digital products are born when creativity meets technical execution. That's why I don't just design interfaces, build them. 
+From concept to code, I'm hands-on with every pixel and every line, ensuring that what we envision is exactly what users experience.
 
 ---
 
-## GitHub Stats
+I believe the best user experiences are built on solid foundations. While I use Adobe tools to craft the 'soft' and 'calm' visual language of ShopQuik, my true medium is the web itself. I leverage the raw power of HTML, CSS, and JavaScript to build interfaces that are not only beautiful but incredibly fast. 
+
+By writing clean, semantic code, I ensure that our 'Core Features Grid' and 'hero sections' load instantly, respecting the user's time and delivering on our promise of 'seconds, not minutes
+
+![Adobe](https://img.shields.io/badge/Adobe-%238B5CF6.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%238B5CF6.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%238B5CF6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%238B5CF6.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+
+I move fluidly between the Adobe Creative Suite and my code editor, ensuring that the 'soft' aesthetic we envision is exactly what the user experiences in the browser. 
+
+I’m not just pushing pixels; I’m building a system where aesthetics and functionality coexist to solve real problems, ensuring that online shopping never feels like a project
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=msdanicodes&show_icons=true&hide_border=true"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdanicodes&layout=compact&hide_border=true"/>
+  
+![AI Grok](https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif)
 
 </div>
 
----
 
-## Featured Projects
+I operate on the principle of compounding consistency. I don't believe in overnight overhauls; I believe in the discipline of getting 1% better every day.
 
-| Project | Description | Live |
-|--------|-------------|------|
-| [Project 1](https://github.com/[YOU]/[REPO]) | Short description of project | [Demo](https://your-demo-url.com) |
-| [Project 2](https://github.com/[YOU]/[REPO]) | Short description of project | [Demo](https://your-demo-url.com) |
-| [Project 3](https://github.com/[YOU]/[REPO]) | Short description of project | [Demo](https://your-demo-url.com) |
+Whether it's shaving milliseconds off a load time or refining the kerning on a header, I approach every task with the same level of scrutiny. 
+
+In a fast-paced environment like ShopQuik, this relentless focus on small, daily improvements is what allows us to turn complex problems into simple, 'calm' solutions that stand the test of time.
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msdanicodes&theme=radical&hide_border=true&background=8B5CF6&ring=C084FC&fire=E879F9&currStreakLabel=FFFFFF)
+
+</div>
+
+My work ethic is built on subtraction, not addition. In a world of digital noise, I fight for clarity. I believe that true craftsmanship lies in stripping away the unnecessary until only the essential remains. I am rigorous about details, treating every pixel and every line of code as an opportunity to honor the user's time.
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=msdanicodes&theme=high-contrast&bg_color=8B5CF6&color=FFFFFF&line=E879F9&point=C084FC&hide_border=true)
+
+</div>
+
+Ultimately, I’m a builder who loves the web. I’m always looking for the next problem to solve; transforming complex technical constraints into 'soft,' intuitive solutions. My goal is to create a digital world that doesn't just work faster, but feels safer; proving that high performance and high design can coexist perfectly.
+
+![IMG_2393](https://github.com/user-attachments/assets/7be4d4a2-dc53-424d-ab1b-c346ca1566d7)
 
 ---
 
 <div align="center">
-
-✿ thanks for visiting my profile ✿
+  <i>Building something beautiful, one commit at a time ✨</i>
+</div>
